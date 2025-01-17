@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-personName = "John"
+personName = "Isaac"
 age = 72
 
 print(personName + ' is ' + str(age) + ' years old!')
