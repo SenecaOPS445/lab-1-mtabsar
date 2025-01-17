@@ -1,0 +1,37 @@
+test_0 (__main__.lab1a.test_0)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for file creation: ./lab1a.py ... ok
+test_a (__main__.lab1a.test_a)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for errors running: ./lab1a.py ... ok
+test_a1 (__main__.lab1a.test_a1)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for correct shebang line: ./lab1a.py ... ok
+test_b (__main__.lab1a.test_b)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test output for correct output "Hello world": ./lab1a.py ... ok
+test_0 (__main__.lab1b.test_0)
+[Lab 1] - [Investigation 3] - [Part 3] - variables & printing - Test for file creation: ./lab1b.py ... ok
+test_a (__main__.lab1b.test_a)
+[Lab 1] - [Investigation 3] - [Part 3] - variables & printing - Test for errors running: ./lab1b.py ... ok
+test_a1 (__main__.lab1b.test_a1)
+[Lab 1] - [Investigation 3] - [Part 3] - variables & printing - Test for correct shebang line: ./lab1b.py ... ok
+test_b (__main__.lab1b.test_b)
+[Lab 1] - [Investigation 3] - [Part 3] - variables & printing - Test for correct output "How old are you John?": ./lab1b.py ... ok
+test_0 (__main__.lab1c.test_0)
+[Lab 1] - [Investigation 3] - [Part 4] - variables & printing - Test for file creation: ./lab1c.py ... ok
+test_a (__main__.lab1c.test_a)
+[Lab 1] - [Investigation 3] - [Part 4] - variables & printing - Test for errors running: ./lab1c.py ... ok
+test_a1 (__main__.lab1c.test_a1)
+[Lab 1] - [Investigation 3] - [Part 4] - variables & printing - Test for correct shebang line: ./lab1c.py ... ok
+test_b (__main__.lab1c.test_b)
+[Lab 1] - [Investigation 3] - [Part 4] - variables & printing - Test output for correct output "John is 72 years old!": ./lab1c.py ... ok
+test_0 (__main__.lab1d.test_0)
+[Lab 1] - [Investigation 3] - [Part 5] - math operators - Test for file creation: ./lab1d.py ... ok
+test_a (__main__.lab1d.test_a)
+[Lab 1] - [Investigation 3] - [Part 5] - math operators - Test for errors running: ./lab1d.py ... ok
+test_a1 (__main__.lab1d.test_a1)
+[Lab 1] - [Investigation 3] - [Part 5] - math operators - Test for correct shebang line: ./lab1d.py ... ok
+test_b (__main__.lab1d.test_b)
+[Lab 1] - [Investigation 3] - [Part 5] - math operators - Test output for correct output "10 + 2 * 5 = 20": ./lab1d.py ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.136s
+
+OK
